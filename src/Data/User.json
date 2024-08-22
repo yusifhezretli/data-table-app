@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Xedice",
+      "surname": "Memmedova",
+      "age": 16
+    },
+    {
+      "id": "2",
+      "name": "Kenan",
+      "surname": "Memmedov",
+      "age": 20
+    },
+    {
+      "id": "bfa6babc-3b6f-41c9-bb39-2c3c9d383b28",
+      "name": "yusif",
+      "surname": "hezretli",
+      "age": "19"
+    },
+    {
+      "id": "f24c299c-23a0-4d1f-a7cc-8e7acaf29e03",
+      "name": "emin ",
+      "surname": "hesenov",
+      "age": "24"
+    },
+    {
+      "id": "1f50214b-5c24-47df-90d8-2294a632ce27",
+      "name": "Vüqar",
+      "surname": "Nasibli",
+      "age": "277"
+    },
+    {
+      "id": "12feb788-fcc7-443b-8a00-2c8cfca9071e",
+      "name": "Rihat",
+      "surname": "Abdullayev",
+      "age": "19"
+    },
+    {
+      "id": "1fafdb50-936e-402c-a7e8-dd46252c1dc7",
+      "name": "Ayxan",
+      "surname": "İsamayılov",
+      "age": "18"
+    }
+  ]
+}
